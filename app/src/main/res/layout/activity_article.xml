@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/article_scroller"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.circularreveal.CircularRevealLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/article_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/article_no_title"
+            android:textSize="35sp"
+            android:layout_marginHorizontal="15dp"
+            android:layout_marginTop="15dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/article_source"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/article_no_source"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="15dp"
+            android:layout_marginTop="5dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/date_published"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/article_no_pubdate"
+            android:textSize="15sp"
+            android:layout_marginHorizontal="15dp"
+            android:layout_marginTop="5dp" />
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/cover_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxHeight="250dp"
+            android:adjustViewBounds="true"
+            android:layout_marginTop="20dp"
+            android:contentDescription="@string/article_image"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:textSize="22sp"
+            android:text="@string/article_no_content" />
+
+    </com.google.android.material.circularreveal.CircularRevealLinearLayout>
+</androidx.core.widget.NestedScrollView>

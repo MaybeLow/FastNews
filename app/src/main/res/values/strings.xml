@@ -1,0 +1,437 @@
+<resources>
+    <string name="aston">Aston Martin</string>
+    <string name="app_name">Fast News</string>
+    <string name="alfa">Jessica</string>
+    <string name="ferrari">Laura</string>
+    <string name="merc">Stacy</string>
+    <string name="haas">Haas</string>
+    <string name="mclaren">Mclaren</string>
+    <string name="alpine">Isobel</string>
+    <string name="bull">Red Bull</string>
+    <string name="friend_name">friend</string>
+    <string name="content_short">Rishi Sunak said the extra bank holiday would give people the chance to come together and celebrate</string>
+    <string name="alpha">Gwen</string>
+    <string name="williams">Brexit</string>
+    <string name="chat_message">Thats funny</string>
+    <string name="typing">Typing…</string>
+    <string name="kimi">Kimi </string>
+    <string name="drivers">Team Lineup </string>
+    <string name="gio">Antonio Giovinazzi</string>
+    <string name="article_title">Extra bank holiday approved to mark Kings coronation</string>
+    <string name="num_of_likes">14</string>
+    <string name="default_description">The article has no content</string>
+    <string name="num_of_comments">10</string>
+    <string name="alfa_info">Italian motor manufacturer Alfa Romeo has participated many times in Formula One. It currently participates as Alfa Romeo Racing while being operated by Sauber Motorsport AG. The brand has competed in motor racing as both a constructor and engine supplier sporadically between 1950 and 1987, and later as a commercial partner since 2015. The company\'s works drivers won the first two World Drivers\' Championships in the pre-war Alfetta: Nino Farina in 1950; and Juan Manuel Fangio in 1951. Following these successes Alfa Romeo withdrew from Formula One.</string>
+    <string name="msg">are the best!</string>
+    <string name="source_name">BBC</string>
+    <string name="start">Tap an item from action bar menu</string>
+    <string name="link">The Link was clicked</string>
+    <string name="logoff">Logoff was clicked</string>
+    <string name="username">username</string>
+    <string name="description">In the profile you will see articles</string>
+    <string name="friend_count">Friends: 4</string>
+    <string name="following_count">Following: 13</string>
+    <string name="profile">Profile Icon was clicked</string>
+    <string name="refresh">Refresh Icon was clicked</string>
+    <string name="settings_xml">Settings</string>
+    <string name="refresh_xml">Refresh</string>
+    <string name="log_xml">Log Off</string>
+    <string name="profile_xml">Profile Page</string>
+    <string name="linked">Linked Accounts</string>
+    <string name="movTitle">Movies Screen</string>
+    <string name="gameTitle">Games Screen</string>
+    <string name="tvTitle">TV Screen</string>
+    <string name="front_image_description">lol</string>
+    <string name="profile_icon_description">3d</string>
+    <string name="profile_tab_description">y</string>
+    <string name="chat_image_description">e</string>
+    <string name="source_logo_description">f</string>
+    <string name="like_image_description">erg</string>
+    <string name="comment_image_description">rg</string>
+    <string name="api_key">https://newsdata.io/api/1/news?apikey=pub_14178cd08bf1a5c4fcf7d03e3c2f3be0f78fc</string>
+    <string name="article_no_title">This article has no title</string>
+    <string name="article_no_source">This article has no source information</string>
+    <string name="article_no_pubdate">This article has no date of publication</string>
+    <string name="article_no_content">This article has no content</string>
+    <string name="article_image">Article image</string>
+    <string name="enter_username_hint">Enter username</string>
+    <string name="enter_profile_description_hint">Enter profile description</string>
+    <string name="apply_changes_button_message">Apply changes</string>
+    <string name="confirm_button_message">confirm</string>
+    <string name="turn_on_button_message">turn on</string>
+    <string name="stop_button_message">stop</string>
+    <string name="profile_searcher_hint">Search for a Profile</string>
+    <string name="search_button_message">Search</string>
+    <string name="login_button_message">LogIn</string>
+    <string name="signup_button_message">SignUp</string>
+    <string name="guest_button_message">Continue as a guest</string>
+    <string name="login_activity_app_logo_description">App logo</string>
+    <string name="enter_message_hint">Enter a message</string>
+    <string name="send_button_message">send</string>
+    <string name="profile_description_example_message">Profile description</string>
+    <string name="friendship_status_button_message">friendship status</string>
+    <string name="messager_button_message">messager</string>
+    <string name="friend_list_button_message">friend list</string>
+    <string name="profile_news_tab_description">News articles that the person is writing or reading</string>
+    <string name="register_button_message">Register</string>
+    <string name="password_entry_hint">password</string>
+    <string name="email_hint">email</string>
+    <string name="email_entry_hint">email entry hint</string>
+    <string name="username_entry_hint">username</string>
+    <string name="comment_sender_hint">Share your thoughts</string>
+    <string name="edit_profile_button_description">edit profile information</string>
+    <string name="news_searcher_hint">Search news</string>
+    <string name="search_icon_image_description">Icon indicating search items</string>
+    <string name="comment">comment</string>
+    <string name="searched_article">searched article</string>
+    <string name="user_article_description">user article description</string>
+    <string name="source">Source:</string>
+    <string name="submit_article_button_message">Submit article</string>
+    <string name="write_article_hint">Type your thoughts</string>
+    <string name="article_description_hint">Article description</string>
+    <string name="article_title_hint">Article title</string>
+    <string name="attach_image_button_message">attach image</string>
+    <string name="categories_text">Choose up to 5 categories</string>
+    <string name="countries_text">Choose up to 5 countries</string>
+    <string name="languages_hint">Choose up to 5 languages</string>
+    <string name="user_article_image">User article image</string>
+    <string name="accept">accept</string>
+    <string name="unfriend">unfriend</string>
+    <string name="requested">requested</string>
+    <string name="add_friend">add friend</string>
+    <string name="message">Message</string>
+    <string name="notifications_message">Choose topics you want to notified for</string>
+    <string name="no_title_article">This article has no title</string>
+    <string name="no_info_article">This article has no source information</string>
+    <string name="no_pubdate_article">This article has no date of publication</string>
+    <string name="no_content_article">This article has no content</string>
+    <string name="news_tab_description">Tab that displays news section</string>
+    <string name="source_hint">Source:</string>
+    <string name="no_source">No source</string>
+    <string name="no_title">No title</string>
+    <string name="no_description">No description</string>
+    <string name="end_activities">end_activities</string>
+
+    <string-array name="tabTitles">
+        <item>news</item>
+        <item>search</item>
+        <item>chat</item>
+        <item>profile</item>
+    </string-array>
+    <string-array name="newsTitles">
+        <item>user news</item>
+        <item>home</item>
+        <item>friends</item>
+    </string-array>
+    <string-array name="profileTitles">
+        <item>write</item>
+        <item>read</item>
+    </string-array>
+    <string-array name="countries">
+        <item>Algeria</item>
+        <item>Angola</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bangladesh</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Bolivia</item>
+        <item>Brazil</item>
+        <item>Bulgaria</item>
+        <item>Burkina fasco</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Côte d Ivoire</item>
+        <item>Cuba</item>
+        <item>Czech republic</item>
+        <item>Denmark</item>
+        <item>Dominican republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Greece</item>
+        <item>Hong kong</item>
+        <item>Hungary</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kuwait</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lithuania</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Mali</item>
+        <item>Mexico</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar</item>
+        <item>Netherland</item>
+        <item>New zealand</item>
+        <item>Nigeria</item>
+        <item>North korea</item>
+        <item>Norway</item>
+        <item>Pakistan</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto rico</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Saudi arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Somalia</item>
+        <item>South africa</item>
+        <item>South korea</item>
+        <item>Spain</item>
+        <item>Sudan</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Turkey</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United arab emirates</item>
+        <item>United kingdom</item>
+        <item>United states of america</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Zambia</item>
+    </string-array>
+    <string-array name="country_ids">
+        <item>dz</item>
+        <item>ao</item>
+        <item>ar</item>
+        <item>au</item>
+        <item>at</item>
+        <item>az</item>
+        <item>bd</item>
+        <item>by</item>
+        <item>be</item>
+        <item>bo</item>
+        <item>br</item>
+        <item>bg</item>
+        <item>bf</item>
+        <item>cm</item>
+        <item>ca</item>
+        <item>cl</item>
+        <item>cn</item>
+        <item>co</item>
+        <item>cr</item>
+        <item>ci</item>
+        <item>cu</item>
+        <item>cz</item>
+        <item>dk</item>
+        <item>do</item>
+        <item>ec</item>
+        <item>eg</item>
+        <item>ee</item>
+        <item>et</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>gh</item>
+        <item>gr</item>
+        <item>hk</item>
+        <item>hu</item>
+        <item>in</item>
+        <item>id</item>
+        <item>iq</item>
+        <item>ie</item>
+        <item>il</item>
+        <item>it</item>
+        <item>jp</item>
+        <item>jo</item>
+        <item>kz</item>
+        <item>ke</item>
+        <item>kw</item>
+        <item>lv</item>
+        <item>lb</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>ml</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>nl</item>
+        <item>nz</item>
+        <item>ng</item>
+        <item>kp</item>
+        <item>no</item>
+        <item>pk</item>
+        <item>py</item>
+        <item>pe</item>
+        <item>ph</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>pr</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sa</item>
+        <item>sn</item>
+        <item>rs</item>
+        <item>sg</item>
+        <item>sk</item>
+        <item>si</item>
+        <item>so</item>
+        <item>za</item>
+        <item>kr</item>
+        <item>es</item>
+        <item>sd</item>
+        <item>se</item>
+        <item>ch</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>gb</item>
+        <item>us</item>
+        <item>ve</item>
+        <item>vi</item>
+        <item>zm</item>
+    </string-array>
+    <string-array name="languages">
+        <item>Belarusian</item>
+        <item>Amharic</item>
+        <item>Arabic</item>
+        <item>Azerbaijani</item>
+        <item>Bengali</item>
+        <item>Bosnian</item>
+        <item>Bulgarian</item>
+        <item>Burmese</item>
+        <item>Central Kurdish</item>
+        <item>Chinese</item>
+        <item>Croatian</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>Dutch</item>
+        <item>English</item>
+        <item>Estonian</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Hungarian</item>
+        <item>Indonesian</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Latvian</item>
+        <item>Lithuanian</item>
+        <item>Malay</item>
+        <item>Norwegian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Romanian</item>
+        <item>Russian</item>
+        <item>Serbian</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Somali</item>
+        <item>Spanish</item>
+        <item>Swahili</item>
+        <item>Swedish</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Urdu</item>
+        <item>Vietnamese</item>
+    </string-array>
+    <string-array name="language_ids">
+        <item>be</item>
+        <item>am</item>
+        <item>ar</item>
+        <item>az</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>my</item>
+        <item>ckb</item>
+        <item>zh</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>hu</item>
+        <item>in</item>
+        <item>it</item>
+        <item>jp</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>ms</item>
+        <item>no</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sr</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>so</item>
+        <item>es</item>
+        <item>sw</item>
+        <item>sv</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+    </string-array>
+    <string-array name="categories">
+        <item>business</item>
+        <item>entertainment</item>
+        <item>environment</item>
+        <item>food</item>
+        <item>health</item>
+        <item>politics</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+        <item>top</item>
+        <item>world</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_margin="5dp"
+    app:cardElevation="30dp"
+    app:contentPadding="4dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="34dp">
+
+    <LinearLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="horizontal">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/friend_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/chat_image_description"
+            android:src="@drawable/friend_icon" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/friend_username"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp"
+            android:text="@string/friend_name"
+            android:textColor="@color/black"
+            android:textSize="32sp" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

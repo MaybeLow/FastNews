@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/refresh"
+        app:showAsAction="ifRoom"
+        android:title="@string/refresh_xml">
+    </item>
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/bell"
+        app:showAsAction="ifRoom"
+        android:title="@string/refresh_xml">
+    </item>
+    <item
+        android:id="@+id/write_article"
+        android:title="Write an Article">
+    </item>
+    <item
+        android:id="@+id/change_notifications"
+        android:title="Change notifications">
+    </item>
+    <item
+        android:id="@+id/change_preferences"
+        android:title="Change preferences">
+    </item>
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/log_xml">
+    </item>
+</menu>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="#EEF8FF"
+    app:cardElevation="30dp"
+    android:clickable="true"
+    app:contentPadding="4dp"
+    app:cardCornerRadius="34dp">
+
+    <LinearLayout
+        android:id="@+id/relativeLayout"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/friend_image"
+            android:contentDescription="@string/front_image_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxHeight="250dp"
+            android:adjustViewBounds="true"
+            android:layout_margin="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="horizontal">
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/item_source_word"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:contentDescription="@string/source_logo_description"
+                android:text="@string/source_hint"
+                android:textSize="15sp"/>
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/item_source_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:text="@string/no_source"
+                android:textSize="15sp"/>
+        </LinearLayout>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/item_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/no_title"
+            android:layout_margin="10dp"
+            android:textSize="20sp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/item_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:text="@string/no_description" />
+
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
